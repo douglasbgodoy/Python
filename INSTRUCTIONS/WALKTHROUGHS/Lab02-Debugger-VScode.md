@@ -51,42 +51,45 @@ This file contains all the steps and information that was recorded to help you d
 
 **Step 8:** User left click in "● logica.py - Logica - Visual Studio Code"
 
+<p align="center"> 
+<img src="/INSTRUCTIONS/IMG/VScode/028-VScode.jpeg" width="400" align="center">
+</p 
 
 
 **Step 9:** User left click in "● logica.py - Logica - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/028-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/029-VScode.jpeg" width="400" align="center">
 </p 
 
 **Step 10:** User left click in "● logica.py - Logica - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/029-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/030-VScode.jpeg" width="400" align="center">
 </p 
 
 **Step 11:** User left click on "● logica.py - Logica - Visual Studio Code (document)" in "● logica.py - Logica - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/030-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/031-VScode.jpeg" width="400" align="center">
 </p 
 
 **Step 12:** User left click on " (text)" in "logica.py - Logica - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/031-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/032-VScode.jpeg" width="400" align="center">
 </p 
 
 **Step 13:** User left click on " (text)" in "logica.py - Logica - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/032-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/033-VScode.jpeg" width="400" align="center">
 </p 
 
 **Step 14:** User left click on " (text)" in "logica.py - Logica - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/033-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/034-VScode.jpeg" width="400" align="center">
 </p 
 
 
