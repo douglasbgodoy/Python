@@ -3,7 +3,7 @@
 This file contains all the steps and information that was recorded to help you describe the recorded steps to others. 
 
 -----
-#Steps
+# Steps
 -----
 
 **Step 1:** User left click on "Chrome Legacy Window (pane)" in "Welcome - Visual Studio Code"
@@ -60,28 +60,28 @@ This file contains all the steps and information that was recorded to help you d
 <img src="/INSTRUCTIONS/IMG/VScode/009-VScode.jpeg" width="400" align="center">
 </p 
 
-**Step 10: (‎14/‎03/‎2024 22:06:36)** User keyboard input on "logica.py - Python - Visual Studio Code (pane)" in "logica.py - Python - Visual Studio Code" [... CTRL-V]
+**Step 10:** User keyboard input on "logica.py - Python - Visual Studio Code (pane)" in "logica.py - Python - Visual Studio Code" [... CTRL-V]
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/014-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/010-VScode.jpeg" width="400" align="center">
 </p 
 
-**Step 11: (‎14/‎03/‎2024 22:06:39)** User left click in "● logica.py - Python - Visual Studio Code"
+**Step 11:** User left click in "● logica.py - Python - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/014-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/011-VScode.jpeg" width="400" align="center">
 </p 
 
-**Step 12: (‎14/‎03/‎2024 22:06:41)** User left click in "● logica.py - Python - Visual Studio Code"
+**Step 12:** User left click in "● logica.py - Python - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/014-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/012-VScode.jpeg" width="400" align="center">
 </p 
 
-**Step 13: (‎14/‎03/‎2024 22:06:46)** User left click on "● logica.py - Python - Visual Studio Code (document)" in "● logica.py - Python - Visual Studio Code"
+**Step 13:** User left click on "● logica.py - Python - Visual Studio Code (document)" in "● logica.py - Python - Visual Studio Code"
 
 <p align="center"> 
-<img src="/INSTRUCTIONS/IMG/VScode/014-VScode.jpeg" width="400" align="center">
+<img src="/INSTRUCTIONS/IMG/VScode/013-VScode.jpeg" width="400" align="center">
 </p 
 
 **Step 14:** User left click in "logica.py - Python - Visual Studio Code"
