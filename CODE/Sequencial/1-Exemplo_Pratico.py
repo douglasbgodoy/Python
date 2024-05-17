@@ -129,3 +129,26 @@ y = int(input())
  
 x = x // y
 y = y // x
+
+#Exemplo 24 IMC
+#Entrada de Dados
+altura = input("Digite a sua altura: ")
+peso = input("Digite o seu peso: ")
+idade = input("Digite a sua idade")
+#Processamento 
+altura = float(altura)
+peso = float(peso)
+idade = int(idade)
+imc = peso /(altura*altura)
+#Saida
+print(imc)
+
+#Exemplo 25 IMC
+#Entrada de Dados
+altura = float(input("Digite a sua altura: "))
+peso = float(input("Digite o seu peso: "))
+idade = int(input("Digite a sua idade"))
+#Processamento 
+imc = peso /(altura*altura)
+#Saida
+print(f"O seu IMC é igual à: {imc:.2f} e a sua idade é igual à: {idade}")
