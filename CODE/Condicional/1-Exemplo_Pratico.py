@@ -260,3 +260,17 @@ if((resposta=='Sim') or (resposta=='sim')):
 else:
     print("Que triste, você deve estar chateado")
 print ("Fim de programa" )
+
+#Exemplo 023 operadores relacionais
+#Faca um programa que faca a seguinte sequencia de atividade
+# Receba um valor do usuario e armazena na variavel num
+# Receba outro valor do usuario e armazena na variavel comparacao
+# Converte amabos valores recebido para inteiro
+# Realiza a operacao resultado = 2 X num + 3
+# Utilize os operadores logicos para comparar se o resultado é maior ou igual a comparacao 
+#Entrada de Dados
+num = int(input("Digite um numero qualquer: "))
+comparacao = int(input("Digite um outro numero para realizar a comparacao: "))
+#Processamento 
+resultado = 2*num+3
+print(f"O resultado da comparacao é: {resultado >= comparacao }")
