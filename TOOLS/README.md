@@ -10,6 +10,11 @@ Windows<br>
 
 Há várias formas de obter sua cópia do Python 3, dependendo do sistema operacional utilizado. Visite o site oficial do Python para fazer o download:
 [https://www.python.org/downloads/](https://www.python.org/downloads/)<br>
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-001.jpeg" width="400" align="center">
+</p 
+<br>
+
 Ao acessar o site, o navegador já detecta o sistema operacional que você utiliza. O próximo passo é apenas clicar na versão apropriada do Python que você deseja, geralmente a mais recente.
 
 **IDLE**<br>
