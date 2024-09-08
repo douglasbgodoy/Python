@@ -30,3 +30,5 @@ Contribuições sempre serão bem vindas!
 <br>   
    
 ## Sorce
+- CISCO NETWORKING ACADEMY - *Python Essentials 1*.<br>Disponível em: [https://skillsforall.com/pt/course/python-essentials-1?courseLang=en-US](https://skillsforall.com/pt/course/python-essentials-1?courseLang=en-US).<br> Acesso em: 21 de fevereiro de 2024.
+- MENEZES, Nilo Ney Coutinho, Introdução à Programação com Python, Novatec Editora, 4ª edição.
