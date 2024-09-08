@@ -85,11 +85,51 @@ Após fazer Sign in no github.com, no diretório que deseja realizar as alteraç
 **Visual Studio Code IDE**<br>
 Windows<br>
 * [Documentação e Download ](https://code.visualstudio.com/docs/?dv=win)
+<br>
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-009.jpeg" width="400" align="center">
+</p 
+<br>
 
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-010.jpeg" width="400" align="center">
+</p 
+<br>
 
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-011.jpeg" width="400" align="center">
+</p 
+<br>
 
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-012.jpeg" width="400" align="center">
+</p 
+<br>
 
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-013.jpeg" width="400" align="center">
+</p 
+<br>
 
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-014.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-015.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-016.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-017.jpeg" width="400" align="center">
+</p 
+<br>
 
 **Visual Studio Code IDE**<br>
 Ubuntu <br>
