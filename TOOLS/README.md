@@ -91,45 +91,67 @@ Windows<br>
 </p 
 <br>
 
+User left click on "Chrome Legacy Window (pane)" in "Visual Studio Code - Code Editing. Redefined - Google Chrome"<br>
+User left click on "Visual Studio Code - Code Editing. Redefined - Google Chrome (pane)" in "Visual Studio Code - Code Editing. Redefined - Google Chrome"
+
 <p align="center"> 
 <img src="/TOOLS/IMG/Python-010.jpeg" width="400" align="center">
 </p 
 <br>
+
+User left click on "Recent download history (pane)" in "Recent download history"
 
 <p align="center"> 
 <img src="/TOOLS/IMG/Python-011.jpeg" width="400" align="center">
 </p 
 <br>
 
+User left click on "I accept the agreement (radio button)" in "Setup - Microsoft Visual Studio Code (User)"<br>
+User left click on "Next > (button)" in "Setup - Microsoft Visual Studio Code (User)"
+
+
 <p align="center"> 
 <img src="/TOOLS/IMG/Python-012.jpeg" width="400" align="center">
 </p 
 <br>
+
+User left click on "Next > (button)" in "Setup - Microsoft Visual Studio Code (User)"
 
 <p align="center"> 
 <img src="/TOOLS/IMG/Python-013.jpeg" width="400" align="center">
 </p 
 <br>
 
+User left click on "Next > (button)" in "Setup - Microsoft Visual Studio Code (User)"
+
 <p align="center"> 
 <img src="/TOOLS/IMG/Python-014.jpeg" width="400" align="center">
 </p 
 <br>
+
+User left click on "Next > (button)" in "Setup - Microsoft Visual Studio Code (User)"
 
 <p align="center"> 
 <img src="/TOOLS/IMG/Python-015.jpeg" width="400" align="center">
 </p 
 <br>
 
+User left click on "Install (button)" in "Setup - Microsoft Visual Studio Code (User)"
+
 <p align="center"> 
 <img src="/TOOLS/IMG/Python-016.jpeg" width="400" align="center">
 </p 
 <br>
 
+User left click on "Finish (button)" in "Setup - Microsoft Visual Studio Code (User)"
+
+
 <p align="center"> 
 <img src="/TOOLS/IMG/Python-017.jpeg" width="400" align="center">
 </p 
 <br>
+
+User left click on "Welcome - Visual Studio Code (pane)" in "Welcome - Visual Studio Code"
 
 **Visual Studio Code IDE**<br>
 Ubuntu <br>
