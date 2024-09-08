@@ -8,7 +8,9 @@
 
 Python é software livre, ou seja, pode ser utilizada gratuitamente, graças ao trabalho da Python Software Foundation (https://python.org) e de inúmeros colaboradores. Você pode utilizar Python em praticamente qualquer arquitetura de computadores ou sistema operacional, como Linux (https://kernel.org ou https://ubuntu.com), FreeBSD (https://freebsd.org), Microsoft Windows ou Mac OS X (https://apple.com/macosx).
 ## Concept
-
+O interpretador é um programa que aceita comandos escritos em Python e os executa, linha a linha. É ele quem vai traduzir nossos programas em um formato que pode ser executado pelo computador. Sem o interpretador Python, nossos programas não podem ser executados, sendo considerados apenas texto. O interpretador também é responsável por verificar se escrevemos corretamente nossos programas, mostrando mensagens de erro, caso encontre algum problema.
+O interpretador Python não vem instalado com o Microsoft Windows: você deverá instalá-lo fazendo um download da internet. Se você utiliza Mac OS X ou
+Linux, provavelmente isso já foi feito. 
 
 ## Software
 * [Python IDLE](https://www.python.org/downloads/) for Windows, Linux or Mac OS.
