@@ -6,8 +6,7 @@
 </p 
 -->
 
-**Programming Python** 
-
+Python é software livre, ou seja, pode ser utilizada gratuitamente, graças ao trabalho da Python Software Foundation (https://python.org) e de inúmeros colaboradores. Você pode utilizar Python em praticamente qualquer arquitetura de computadores ou sistema operacional, como Linux (https://kernel.org ou https://ubuntu.com), FreeBSD (https://freebsd.org), Microsoft Windows ou Mac OS X (https://apple.com/macosx).
 ## Concept
 
 
