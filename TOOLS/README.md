@@ -153,6 +153,44 @@ User left click on "Finish (button)" in "Setup - Microsoft Visual Studio Code (U
 
 User left click on "Welcome - Visual Studio Code (pane)" in "Welcome - Visual Studio Code"
 
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-018.jpeg" width="400" align="center">
+</p 
+<br>
+
+Get Started with VS Code Click on Choose your theme
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-019.jpeg" width="400" align="center">
+</p 
+<br>
+
+User left click on "Next"
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-020.jpeg" width="400" align="center">
+</p 
+<br>
+
+User left click on "Extensions"
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-021.jpeg" width="400" align="center">
+</p 
+<br>
+
+User left click in "Extension: Python Debugger - Visual Studio Code"
+
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-022.jpeg" width="400" align="center">
+</p 
+<br>
+
+User left click in "Extension: Python Debugger - Visual Studio Code"
+
+
+
 **Visual Studio Code IDE**<br>
 Ubuntu <br>
 1. Download VScode<br>
