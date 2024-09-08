@@ -15,7 +15,41 @@ Há várias formas de obter sua cópia do Python 3, dependendo do sistema operac
 </p 
 <br>
 
-Ao acessar o site, o navegador já detecta o sistema operacional que você utiliza. O próximo passo é apenas clicar na versão apropriada do Python que você deseja, geralmente a mais recente.
+Ao acessar o site, o navegador já detecta o sistema operacional que você utiliza. O próximo passo é apenas clicar na versão apropriada do Python que você deseja, geralmente a mais recente.<br>
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-002.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-003.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-004.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-005.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-006.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-007.jpeg" width="400" align="center">
+</p 
+<br>
+
+<p align="center"> 
+<img src="/TOOLS/IMG/Python-008.jpeg" width="400" align="center">
+</p 
+<br>
 
 **IDLE**<br>
 Ubuntu<br>
