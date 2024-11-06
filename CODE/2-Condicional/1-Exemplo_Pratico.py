@@ -1,3 +1,15 @@
+""" 
+ * Nome: Exemplos de Estrutura condicional
+ * Descrição: Ao final da aula, os alunos serão capazes de usar as 
+ *            estruturas de Controle de Fluxo if, elif e else.
+ * Autor: Douglas Baptista de Godoy
+ * Data de Criação: 2024-09-14
+ * Versão: 1.0
+ * 
+ * Dependências:
+ * - Python 3.12.6
+"""
+
 #Exemplo 001 Operadores Relacionais
 print(2==2)
 
@@ -274,3 +286,13 @@ comparacao = int(input("Digite um outro numero para realizar a comparacao: "))
 #Processamento 
 resultado = 2*num+3
 print(f"O resultado da comparacao é: {resultado >= comparacao }")
+
+#Exemplo 024 Cuidados ao comparar valores
+print("1" == 1) #False 
+print(1.0 == 1) #True
+print("A" == "a") #False 
+print(" A " == "A") #False
+print(10/3 == 3.33) #False 
+print(10/3 == 3.333333) #False
+print(10/3) 
+print(10/3 == 3.3333333333333335) #True
