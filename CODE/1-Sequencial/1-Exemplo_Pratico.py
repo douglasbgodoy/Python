@@ -1,3 +1,15 @@
+""" 
+ * Nome: Exemplos de Estrutura sequencial
+ * Descrição: Ao final da aula, os alunos serão capazes de usar a 
+ *            estrutura sequencial.
+ * Autor: Douglas Baptista de Godoy
+ * Data de Criação: 2024-10-04
+ * Versão: 2.0
+ * 
+ * Dependências:
+ * - Python 3.12.6
+"""
+
 #Exemplo 1
 print("Ola mundo python")
 
@@ -8,6 +20,7 @@ print('Ola mundo teste 2 em python')
 input()
 
 #Exemplo 4
+#Faça um programa que exiba seu nome na tela.
 print("Digite o seu nome ")
 input()
 
@@ -25,6 +38,23 @@ print(type(idade))
 #Exemplo 8
 altura = 1.87 
 print(type(altura))
+
+#Exemplo 8
+f = print
+print(type(f))
+
+#Exemplo 8
+g = []
+print(type(g))
+
+#Exemplo 8
+h = {}
+print(type(h))
+
+#Exemplo 8
+def soma():
+    pass
+print(type(soma))
 
 #Exemplo 9
 altura = float("1.87") 
@@ -55,10 +85,21 @@ total_apples = jonh + mary + adam
 print(total_apples)
 
 #Exemplo 15
-print(0o123)
-print(0x123)
+print(0b11) #Binario -> 3
+print(0b111) #Binario -> 7
 
-print(11_111_11)
+print(0o11) #Octal -> 9
+print(0o123) #Octal -> 83
+
+print(0xa) #Hexadecimal -> 10
+print(0x11) #Hexadecimal -> 17
+print(0x123) #Hexadecimal -> 291
+
+print(1_000)#Mil
+print(1_000_000) #Um Milhão 
+print(11_111_11) #Onze milhões cento e onze mil cento e onze
+print(1_980.10) # _ pode ser combinado com ponto 
+
 
 print(3E8)
 
@@ -119,6 +160,13 @@ x = float(x)
 y = (3*(x**3)) -(2 *(x**2)) +(3*x) -1
 print("y =", y)
 
+#List of priorities
+#10 % 3 * 10 ** 2 + 1 - 10 * 4 / 2 
+print((((10 % 3) * (10 ** 2)) + 1) -  ((10 * 4) / 2))
+#           1         100                 40
+#                100                        20.0
+#                101                      20.0
+#                            81.0
 
 #Exemplo 23 
 x = input("Digite um número: ") # O usuário digita 2
