@@ -3,8 +3,8 @@
  * Descrição: Ao final da aula, os alunos serão capazes de criar 
  *            Listas.
  * Autor: Douglas Baptista de Godoy
- * Data de Criação: 2024-09-26
- * Versão: 1.0
+ * Data de Criação: 2024-11-13
+ * Versão: 2.0
  * 
  * Dependências:
  * - Python 3.12.6
@@ -65,15 +65,66 @@ numbers.insert (0, 222)#insert elemento
 print("Os numeros ", numbers)
 print()
 
+#Exemplo 006 
+l = [7,8,48,30]
+print("Lista l")
+print(l)
+print("\n")
+v = l
+print("Lista l")
+print(l)
+print("Lista v")
+print(v)
+l[0]=77
+print("Lista l")
+print(l)
+print("Lista l")
+print(v)
+print("\n")
+#As duas lista apontam para o mesmo endereco de memoria 
 
-#Exemplo 006
+#Exemplo 007
+a = [7,8,48,30]
+print("Lista a")
+print(a)
+print("\n")
+b = a[:]  #copia dos elementos da lista 
+print("Lista a")
+print(a)
+print("Lista b")
+print(b)
+b[0]=77  #altera elemento da lista b
+print("Lista a")
+print(a)
+print("Lista b")
+print(b)
+
+#Exemplo 008
+x = [7,8,48,30]
+print("Lista x")
+print(x)
+x.append(99) 
+print("Lista x com 99 no fim ")
+print(x)
+x = x+[999]
+print("Lista x com 999 no fim ")
+print(x)
+x += [100]
+print("Lista x com 100 no fim ")
+print(x)
+x = [55]+x
+print("Lista x com 55 no inicio ")
+print(x)
+
+
+#Exemplo 009
 #Criando uma lista vazia.
 my_list = [] # Criando uma lista vazia.
 for i in range(5):
    my_list.append (i + 1)
 print (my_list)
 
-#Exemplo 007
+#Exemplo 010
 total = 0
 my_list = [] # Criando uma lista vazia.
 for i in range(5):
@@ -84,7 +135,7 @@ for i in range(len(my_list)):
 print(total)
 
 
-#Exemplo 008
+#Exemplo 011
 list = [10,1,8,3,5]# tamanho 5
 total = 0
 for i in list:
@@ -103,7 +154,7 @@ for i in my_list: #i é o elemento da lista
     total += i
 print(total) #soma dos elementos da lista
 
-#Exemplo 009
+#Exemplo 012
 #O Python oferece uma maneira mais conveniente de fazer a troca
 #variable_1, variable_2 = variable_2, variable_1
 #troca em Lista
@@ -114,7 +165,7 @@ my_list[1], my_list[3] = my_list[3], my_list[1]
 print(my_list)
 
 
-#Exemplo 010
+#Exemplo 013
 notas = [6,7,5,8,9]
 soma = 0
 x = 0
@@ -124,7 +175,7 @@ while x < 5:
 print(f"Media: {soma/x}")
 
 
-#Exemplo 011
+#Exemplo 014
 notas = [0,0,0,0,0]
 soma = 0
 x = 0
@@ -139,32 +190,14 @@ while x < 5:
 print(f"Media: {soma/x}")
 
 
-#Exemplo 012
+#Exemplo 015
 #Index negative
 numbers = [111, 7, 2, 1]
 print(numbers[-1]) #Ultimo da lista 1
 print(numbers[-4]) #primeiro da lista 111
 
 
-#Exemplo 013
-#The bubble sort
-#Em python temos o metodo de ordenacao SORT
-my_list = [8, 10, 6, 2, 4]
-my_list.sort()
-print(my_list)
-
-
-#Exemplo 014
-#Há também um método de lista chamado reverse(),
-#que você pode usar para reverter a lista
-lst = [5, 3, 1, 2, 4]
-print(lst)
-print()
-lst.reverse()
-print(lst)  # outputs: [4, 2, 1, 3, 5]
-
-
-#Exemplo 015
+#Exemplo 016
 list_1 = [5, 3, 1, 2, 4]
 list_2 = list_1 #identificam o mesmo local na memória do computador.
 print("lista 1")
@@ -183,7 +216,7 @@ print("lista 2")
 print(list_2)
 print()
 
-#Exemplo 016
+#Exemplo 017
 #Copia o conteúdo da lista, não o nome da lista..
 #my_list[start:end] #lembrando end-1, [valor do indice:valor do indice-1]
 list_1 = [5, 3, 99, 2, 4]
@@ -203,7 +236,7 @@ print("lista 2")
 print(list_2)
 print()
 
-#Exemplo 017
+#Exemplo 018
 my_list = [10, 8, 6, 4, 2]
 print(my_list)
 new_list = my_list[1:5]  # Copiando parte da lista.
@@ -211,13 +244,13 @@ print(new_list)
 new_list = my_list[1:4] # Copiando parte da lista.
 print(new_list)
 
-#Exemplo 018
+#Exemplo 019
 my_list = [10, 8, 6, 4, 2]
 print(my_list)
 new_list = my_list[1:-1]
 print(new_list) #[8, 6, 4]
 
-#Exemplo 019
+#Exemplo 020
 #Se o start especificar um elemento além do descrito no end
 #(do início da lista), a fatia estará vazia:
 
@@ -228,34 +261,44 @@ new_list = my_list[-1:-4] #[]
 print(new_list) 
 
 
-#Exemplo 020
+#Exemplo 021
 my_list = [10, 8, 6, 4, 2]# A fatia anda da direita para esquerda
 new_list = my_list[-4:-2]
 print(new_list) #[8, 6]
 
-#Exemplo 021
+#Exemplo 022
 my_list = [1, 2, 3, 4]
 print(my_list[-3:-2]) #[2]
 
-#Exemplo 022
+#Exemplo 023
 #excluir elementos da lista
 my_list = [10, 8, 6, 4, 2]
 del my_list[1:3]
 print(my_list) #[10, 4, 2]
 
-#Exemplo 023
+#Exemplo 024
 #lista vazia
 my_list = [10, 8, 6, 4, 2]
 del my_list[:]
 print(my_list)
 
-#Exemplo 024
-
 
 #Exemplo 025
- 
+#The bubble sort
+#Em python temos o metodo de ordenacao SORT
+my_list = [8, 10, 6, 2, 4]
+my_list.sort()
+print(my_list)
+
 
 #Exemplo 026
+#Há também um método de lista chamado reverse(),
+#que você pode usar para reverter a lista
+lst = [5, 3, 1, 2, 4]
+print(lst)
+print()
+lst.reverse()
+print(lst)  # outputs: [4, 2, 1, 3, 5]
 
 #Exemplo 027
 #par impar com lista
