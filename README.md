@@ -12,6 +12,15 @@ O interpretador é um programa que aceita comandos escritos em Python e os execu
 O interpretador Python não vem instalado com o Microsoft Windows: você deverá instalá-lo fazendo um download da internet. Se você utiliza Mac OS X ou
 Linux, provavelmente isso já foi feito. 
 
+## Directory structure
+```
+/CODE                           # Códigos-fonte e exemplos práticos
+/IMG                            # Imagens utilizadas na documentação
+/INSTRUCTIONS/DOC               # Documentação técnica, guias e apresentações
+/INSTRUCTIONS/WALKTHROUGHS      # Tutoriais e procedimentos passo a passo
+/LIB                            # Bibliotecas e componentes auxiliares
+/TOOLS                          # Ferramentas, scripts e utilitários
+```
 ## Software
 * [Python IDLE](https://www.python.org/downloads/) for Windows, Linux or Mac OS.
 * [Visual Studio Code IDE](https://code.visualstudio.com) for Windows, Linux or Mac OS.
